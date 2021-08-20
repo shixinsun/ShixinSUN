@@ -75,9 +75,9 @@ Hi! This is Shixin SUN‘s GitHub and [**CV**](https://shixinsun.github.io/).
 
 ## 4. AI 算法基础
 
-#### 4.1 2D 图像处理
+#### 4.1 数字图像处理
 
-#### 4.2 3D 图像处理
+#### 4.2 计算机视觉
 
 #### 4.3 机器学习
 
