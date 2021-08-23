@@ -25,7 +25,7 @@ Hi! This is Shixin SUN‘s GitHub and [**CV**](https://shixinsun.github.io/).
 
 #### 1.2 矩阵分析
 
-#### 1.3 概率论与数理统计
+#### 1.3 [概率论与数理统计](https://github.com/shixinsun/ProbabilityTheory_MathematicalStatistics)
 
 #### 1.4 复变函数
 
